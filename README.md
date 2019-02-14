@@ -1,7 +1,7 @@
 # tf-bionic-rocm-docker
 
 These file were copied from [ROCmSoftwarePlatform/tensorflow-upstream]
-(branch: `r1.12-rocm`) repository and modified to build a Docker image based
+repository (branch: `r1.12-rocm`) and modified to build a Docker image based
 on Ubuntu 18.04.
 
 [ROCmSoftwarePlatform/tensorflow-upstream]: https://github.com/ROCmSoftwarePlatform/tensorflow-upstream/tree/r1.12-rocm/tensorflow/tools/ci_build
